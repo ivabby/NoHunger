@@ -1,7 +1,8 @@
 {
   "name": "react-complete-guide",
   "version": "0.1.0",
-  "private": true,"engines": {
+  "private": true,
+  "engines": {
     "node": "18.x"
   },
   "dependencies": {
@@ -28,7 +29,6 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      
       "not dead",
       "not op_mini all"
     ],
