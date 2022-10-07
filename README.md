@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- <img src="./public/images/website_desktop.png" width="750">
-<img src="./public/images/website_tablet.png" width="450">
-<img src="./public/images/website_mobile.png" width="300"> -->
+<img src="./public/images/NoHunger_Desktop_1.png" width="750">
+<img src="./public/images/NoHunger_Desktop_2.png" width="750">
+<img src="./public/images/NoHunger_Mobile_1.png" width="300">
 
 ### Links
 
@@ -56,7 +56,6 @@ In this challange I learned how to use React reusable components. In this websit
 ## Author
 
 - Website - [Vaibhav Singh](https://github.com/ivabby)
-- Frontend Mentor - [@ivabby](https://www.frontendmentor.io/profile/ivabby)
 - Twitter - [@iamvabby](https://twitter.com/iamvabbyy)
 
 ## Acknowledgments
