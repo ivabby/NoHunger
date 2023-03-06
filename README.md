@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/ivabby/NoHunger)
-- Live Site URL: [Live Site URL here](https://nohunger.herokuapp.com/)
+- Live Site URL: [Live Site URL here](https://640633d26a5d9300080f0576--astounding-selkie-c653e1.netlify.app/)
 
 ## My process
 
