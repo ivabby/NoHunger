@@ -40,13 +40,13 @@ const Cart = (props) => {
 
   const submitOrderHandler = async (userData) => {
     setIsSubmitting(true);
-    const response = await fetch(
-      "https://react-http-api-e155c-default-rtdb.asia-southeast1.firebasedatabase.app/orders.json",
-      {
-        method: "POST",
-        body: JSON.stringify({ user: userData, orderedItems: cartCtx.items }),
-      }
-    );
+    // const response = await fetch(
+    //   "https://react-http-api-e155c-default-rtdb.asia-southeast1.firebasedatabase.app/orders.json",
+    //   {
+    //     method: "POST",
+    //     body: JSON.stringify({ user: userData, orderedItems: cartCtx.items }),
+    //   }
+    // );
 
     setIsSubmitting(false);
     setDidSubmit(true);
